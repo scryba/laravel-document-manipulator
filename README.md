@@ -11,7 +11,7 @@ Laravel Version: 8 +
 You can install the package via Composer:
 
 ```bash
-composer require jumbaeric/docverter
+composer require jumbaeric/laraveldocverter
 ```
 
 ## Usage
