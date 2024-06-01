@@ -1,12 +1,12 @@
 {
     "name": "jumbaeric/docverter",
-    "description": "A versatile PHP package for document conversion between various formats.",
+    "description": "A versatile laravel package for document conversion between various formats.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
             "name": "Eric Jumba",
-            "email": "your@email.com"
+            "email": "jumbaeric@email.com"
         }
     ],
     "require": {
