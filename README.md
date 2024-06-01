@@ -2,6 +2,10 @@
 
 Docverter is a versatile PHP package for document conversion between various formats. Whether you need to convert RTF, PDF, HTML, Text, Image, Markdown, Excel, or Word documents, this package provides seamless functionality using industry-standard libraries.
 
+## Requirements
+PHP Version : 7.4 +
+Laravel Version: 8 +
+
 ## Installation
 
 You can install the package via Composer:
