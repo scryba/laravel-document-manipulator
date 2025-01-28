@@ -1,12 +1,14 @@
 {
-    "name": "jumbaeric/laraveldocverter",
+    "name": "scryba/laravel-document-manipulator",
     "description": "A versatile laravel package for document conversion between various formats.",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Eric Jumba",
-            "email": "jumbaeric@email.com"
+            "name": "Michael K. Laweh",
+            "email": "contact@michael.laweitech.com",
+            "homepage": "https://michael.laweitech.com/",
+            "role": "Developer"
         }
     ],
     "require": {
