@@ -11,7 +11,7 @@ Laravel Version: 8 +
 You can install the package via Composer:
 
 ```bash
-composer require jumbaeric/laraveldocverter
+composer require scryba/laravel-document-manipulator
 ```
 
 ## Usage
