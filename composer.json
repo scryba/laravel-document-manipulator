@@ -12,14 +12,14 @@
         }
     ],
     "require": {
-        "spatie/pdf-to-text": "^1.52",
-        "spatie/pdf-to-image": "^2.3",
-        "dompdf/dompdf": "^1.0",
-        "phpoffice/phpspreadsheet": "^1.18",
-        "phpoffice/phpword": "^0.7",
-        "spatie/image": "^1.0",
-        "spatie/pdf-parser": "^2.1",
-        "spatie/temporary-directory": "^1.0"
+        "spatie/pdf-to-text": "*",
+        "spatie/pdf-to-image": "*",
+        "dompdf/dompdf": "*",
+        "phpoffice/phpspreadsheet": "*",
+        "phpoffice/phpword": "*",
+        "spatie/image": "*",
+        "spatie/pdf-parser": "*",
+        "spatie/temporary-directory": "*"
     },
     "autoload": {
         "psr-4": {
